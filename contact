@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <meta charset="utf-8">
+
+ <title>Контакты</title>
+ <script type="text/javascript">
+				alert("HELLO");
+				document.write("KJKLJALJ:");
+          </script>
+ <link rel="shortcut icon" type="image/x-icon" href="images/log.jpg">
+ <link rel="stylesheet" href="style.css" type="text/css">
+ 
+</head>
+<body>
+  <div class="header">
+  
+    <div class="mid">
+      <header>
+        <div class="topmenu">
+          <aside>
+         
+            <a hred="#">Главная</a>
+            <a hred="#">Новости</a>
+            <a hred="#">Услуги</a>
+            <a hred="#">Контакты</a>
+
+          </aside>
+        </div>
+        <img src="images/22.png" alt="Логотип сайта" title="Логотип сайта">
+      </header>
+    </div>
+  </div>
+  <h1>
+  	
+  	Наши Контакты:
+  	улю Козицкого 15
+  </h1>
+  </body>
